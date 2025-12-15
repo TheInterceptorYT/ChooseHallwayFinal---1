@@ -219,3 +219,4 @@ document.getElementById("restartBtn").addEventListener("click", () => {
 
 // ---------------- INIT ---------------- //
 window.addEventListener("DOMContentLoaded", maybeSpawnWithered);
+
